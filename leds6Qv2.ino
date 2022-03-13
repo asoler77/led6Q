@@ -3,6 +3,8 @@ Example Sound Level Sketch for the
 Adafruit Microphone Amplifier
 ****************************************/
 
+//només un test de github
+
 #define T1 300
 #define T2 5000
 #define T3 400
